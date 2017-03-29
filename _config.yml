@@ -80,7 +80,7 @@ author:
   name             : "João Godinho"
   avatar           : "/assets/images/jcfg.jpg"
   bio              : # "I am an amazing person."
-  location         : "Lisbon"
+  location         : "Lisbon, PT"
   email            :
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "jcfg_"
   vine             :
   weibo            :
   xing             :
